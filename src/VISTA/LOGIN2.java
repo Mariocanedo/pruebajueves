@@ -11,7 +11,7 @@ import Modelo.DAOPersona;
 
 /**
  *
- * @author PC1
+ * Mario Canedo
  */
 public class LOGIN2 extends javax.swing.JFrame {
 
